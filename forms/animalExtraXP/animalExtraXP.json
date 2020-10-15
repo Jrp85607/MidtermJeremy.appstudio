@@ -9,51 +9,14 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "incomeBracket",
-        "Elements",
-        "inptIncome.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "incomeBracket",
-        "Elements",
-        "btnSubmit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "incomeBracket",
-        "Elements",
-        "btnGoAgain.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "incomeBracket",
-        "Elements",
-        "lblTaxBracket.json"
-      ]
-    }
-  ],
+  "children": [],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "incomeBracket",
+  "id": "animalExtraXP",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
